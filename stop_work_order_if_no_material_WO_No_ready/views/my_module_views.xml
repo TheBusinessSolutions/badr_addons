@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <!-- Add your data records here -->
+        <record id="my_module_view_form" model="ir.ui.view">
+            <field name="name">My Module Form View</field>
+            <field name="model">my.module.model</field>
+            <field name="arch" type="xml">
+                <form string="My Module Form">
+                    <sheet>
+                        <group>
+                            <field name="field_1"/>
+                            <field name="field_2"/>
+                            <field name="field_3"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+    </data>
+</odoo>
