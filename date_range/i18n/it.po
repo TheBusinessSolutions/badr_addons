@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: Odoo Server 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-01 02:44+0000\n"
-"PO-Revision-Date: 2023-05-12 12:57+0000\n"
-"Last-Translator: Francesco Foresti <francesco.foresti@ooops404.com>\n"
+"PO-Revision-Date: 2025-01-27 12:06+0000\n"
+"Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (https://www.transifex.com/oca/teams/23907/it/)\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #. module: date_range
 #: code:addons/date_range/models/date_range.py:0
@@ -92,7 +92,7 @@ msgstr "Generatore intervallo data"
 #: model:ir.model,name:date_range.model_date_range_type
 #: model_terms:ir.ui.view,arch_db:date_range.view_date_range_type_form_view
 msgid "Date Range Type"
-msgstr "Tipo di intervallo data"
+msgstr "Tipo intervallo data"
 
 #. module: date_range
 #: model:ir.actions.act_window,name:date_range.date_range_type_action
@@ -109,7 +109,7 @@ msgstr "Intervalli data"
 #. module: date_range
 #: model:ir.model.fields,field_description:date_range.field_date_range_generator__date_start
 msgid "Date Start"
-msgstr "Data iniziale"
+msgstr "Data inizio"
 
 #. module: date_range
 #: model_terms:ir.ui.view,arch_db:date_range.view_date_range_tree
@@ -119,7 +119,7 @@ msgstr "Intervallo date"
 #. module: date_range
 #: model_terms:ir.ui.view,arch_db:date_range.view_date_range_type_tree
 msgid "Date range type"
-msgstr "Tipo di intervallo data"
+msgstr "Tipo intervallo data"
 
 #. module: date_range
 #: model:ir.ui.menu,name:date_range.menu_date_range
@@ -141,7 +141,7 @@ msgstr "Durata"
 #. module: date_range
 #: model:ir.model.fields,field_description:date_range.field_date_range__date_end
 msgid "End date"
-msgstr "Data finale"
+msgstr "Data fine"
 
 #. module: date_range
 #: model:ir.actions.act_window,name:date_range.date_range_generator_action
@@ -167,13 +167,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:date_range.field_date_range__archive_uid
 #: model:ir.model.fields,field_description:date_range.field_date_range_type__archive_uid
 msgid "Last Archived by"
-msgstr ""
+msgstr "Ultima archiviazione di"
 
 #. module: date_range
 #: model:ir.model.fields,field_description:date_range.field_date_range__archive_date
 #: model:ir.model.fields,field_description:date_range.field_date_range_type__archive_date
 msgid "Last Archived on"
-msgstr ""
+msgstr "Ultima archiviazione il"
 
 #. module: date_range
 #: model:ir.model.fields,field_description:date_range.field_date_range____last_update
